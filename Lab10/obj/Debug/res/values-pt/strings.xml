@@ -1,0 +1,1 @@
+<resources><string name="ButtonText">Olá Mundo, Clique-me!</string><string name="ApplicationName">Localizacao no Android\</string><string name="ContentHeader">Conteúdo do curso(espanhol)</string><plurals name="numberOfClicks"><item quantity="one">Há %d Clique.</item><item quantity="other">Há %d Cliques.</item></plurals></resources>
